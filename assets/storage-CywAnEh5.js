@@ -1,0 +1,1 @@
+import{n as e,t}from"./storage-B_4eCD85.js";export{t as StorageAPI,e as StorageDeferredAPI};
